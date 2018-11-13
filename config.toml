@@ -4,9 +4,10 @@
 # theme = "ananke"
 
 title = "muuuuuuuuuu blog"
-baseURL = "https://example.com"
+baseURL = "https://muuuuuuuuu.github.io/Myproject2"
 languageCode = "en-us"
 theme = "ananke"
+publishDir = "docs"
 # themesDir = "../.."
 # disqusShortname = YOURSHORTNAME
 
@@ -33,6 +34,6 @@ enableRobotsTXT = true
   gitlab = ""
   linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-red"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
